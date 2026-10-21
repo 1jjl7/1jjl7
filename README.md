@@ -25,7 +25,6 @@ SELECT role, where_, when_ FROM experience ORDER BY when_ DESC;
 | role                                    | where                                | when              |
 | --------------------------------------- | ------------------------------------ | ----------------- |
 | Data Analyst Intern                     | JeelPay (fintech), Riyadh            | Jun – Aug 2026    |
-| Member, Google Developer Group on Campus | Qassim University                    | May 2025 – now    |
 
 At JeelPay I built dashboards and wrote SQL on risk and collection data.
 
